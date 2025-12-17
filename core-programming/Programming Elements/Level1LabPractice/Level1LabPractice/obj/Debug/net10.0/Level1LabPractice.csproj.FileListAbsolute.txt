@@ -1,0 +1,14 @@
+D:\Capgemini_Training\December\Dot Net\Level1LabPractice\Level1LabPractice\bin\Debug\net10.0\Level1LabPractice.exe
+D:\Capgemini_Training\December\Dot Net\Level1LabPractice\Level1LabPractice\bin\Debug\net10.0\Level1LabPractice.deps.json
+D:\Capgemini_Training\December\Dot Net\Level1LabPractice\Level1LabPractice\bin\Debug\net10.0\Level1LabPractice.runtimeconfig.json
+D:\Capgemini_Training\December\Dot Net\Level1LabPractice\Level1LabPractice\bin\Debug\net10.0\Level1LabPractice.dll
+D:\Capgemini_Training\December\Dot Net\Level1LabPractice\Level1LabPractice\bin\Debug\net10.0\Level1LabPractice.pdb
+D:\Capgemini_Training\December\Dot Net\Level1LabPractice\Level1LabPractice\obj\Debug\net10.0\Level1LabPractice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini_Training\December\Dot Net\Level1LabPractice\Level1LabPractice\obj\Debug\net10.0\Level1LabPractice.AssemblyInfoInputs.cache
+D:\Capgemini_Training\December\Dot Net\Level1LabPractice\Level1LabPractice\obj\Debug\net10.0\Level1LabPractice.AssemblyInfo.cs
+D:\Capgemini_Training\December\Dot Net\Level1LabPractice\Level1LabPractice\obj\Debug\net10.0\Level1LabPractice.csproj.CoreCompileInputs.cache
+D:\Capgemini_Training\December\Dot Net\Level1LabPractice\Level1LabPractice\obj\Debug\net10.0\Level1LabPractice.dll
+D:\Capgemini_Training\December\Dot Net\Level1LabPractice\Level1LabPractice\obj\Debug\net10.0\refint\Level1LabPractice.dll
+D:\Capgemini_Training\December\Dot Net\Level1LabPractice\Level1LabPractice\obj\Debug\net10.0\Level1LabPractice.pdb
+D:\Capgemini_Training\December\Dot Net\Level1LabPractice\Level1LabPractice\obj\Debug\net10.0\Level1LabPractice.genruntimeconfig.cache
+D:\Capgemini_Training\December\Dot Net\Level1LabPractice\Level1LabPractice\obj\Debug\net10.0\ref\Level1LabPractice.dll
