@@ -1,29 +1,73 @@
 # dotNet_training_capgemini
-## Core Programming - December
+## Core Programming – December
 
 ### 15 December 2025
-What I have done: level 1 lab practices, git program tasks 
-What I will do next: level 2 lab practices
-Issues faced: visual studio interface 
-git link: https://github.com/naveen2624/capgemini_training_git_tasks/tree/master
+What I have done:  
+- Completed Level 1 lab practices  
+- Completed Git program tasks  
+
+What I will do next:  
+- Level 2 lab practices  
+
+Issues faced:  
+- Visual Studio interface  
+
+Git link:  
+https://github.com/naveen2624/capgemini_training_git_tasks/tree/master  
+
+---
 
 ### 16 December 2025
-What I have done: level 2 lab practices and uploaded both level 1 and 2 in g classroom assignment, level 1 control flow practice qns, programming tasks sent in whatsapp
-What I will do next: control flow statement lab practices level 2 and 3
-Issues faced: none
+What I have done:  
+- Completed Level 2 lab practices  
+- Uploaded Level 1 and Level 2 programs in Google Classroom assignment  
+- Completed Level 1 control flow practice questions  
+- Sent programming tasks in WhatsApp  
+
+What I will do next:  
+- Control flow statement lab practices (Level 2 and Level 3)  
+
+Issues faced:  
+- None  
+
+---
 
 ### 17 December 2025
-What I have done: Control Flow Level2 lab practices, Array Level 1 Lab Practices
-What i will do next: Array Level 2
-Issues Faced: none
-Updated Github Link: https://github.com/naveen2624/dotNet_training_capgemini
+What I have done:  
+- Completed Control Flow Level 2 lab practices  
+- Completed Array Level 1 lab practices  
+
+What I will do next:  
+- Array Level 2  
+
+Issues faced:  
+- None  
+
+Updated GitHub link:  
+https://github.com/naveen2624/dotNet_training_capgemini  
+
+---
 
 ### 18 December 2025
-What I have done: Done 5 programs in arrays level 2 
-What I will do next: methods level 1 lab practice
-Issues faced: none
+What I have done:  
+- Completed 5 programs in Arrays Level 2  
+
+What I will do next:  
+- Methods Level 1 lab practice  
+
+Issues faced:  
+- None  
+
+---
 
 ### 19 December 2025
-What I have done: Completed Arrays Level 2 Programs, Started with Methods Level 1
-What I will do next: Will Complete the Methods Level 1 and start Methods Level 2
-Issues faced: none
+What I have done:  
+- Completed Arrays Level 2 programs  
+- Started Methods Level 1  
+
+What I will do next:  
+- Complete Methods Level 1  
+- Start Methods Level 2  
+
+Issues faced:  
+- None  
